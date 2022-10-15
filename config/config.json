@@ -1,0 +1,7 @@
+{
+    "rel_move_per_tick": 300,
+    "access_vault": "F",
+    "inventory": "Tab",
+    "suits_per_grab": 3
+
+}
